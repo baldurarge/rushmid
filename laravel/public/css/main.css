@@ -1,0 +1,13 @@
+.img-rounded{
+    width:130px;
+}
+.thumbnail{
+    height: 200px;
+}
+.thumbnail h3{
+    margin-top: 20%;
+}
+a, a:hover{
+    color:black;
+    text-decoration: none;
+}
